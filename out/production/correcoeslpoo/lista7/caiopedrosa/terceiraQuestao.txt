@@ -1,0 +1,5 @@
+No primeiro exercício existe sobrecarga, pois há existencia de dois métodos com o mesmo nome (calcularValorComDesconto), porém com uma lista de atributos diferentes.
+
+
+No segundo exercício, o que ocorre é uma sobrescrita, pois o método mover da subclasse PecaDama é igual ao méotodo mover da superclasse Peca e há alteracao no comportamento da
+subclasse.

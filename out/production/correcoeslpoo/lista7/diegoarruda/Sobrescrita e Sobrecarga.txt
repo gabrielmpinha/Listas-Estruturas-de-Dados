@@ -1,0 +1,3 @@
+Existe sobrecarga no método calcularValorComDesconto pois apesar de ser o mesmo método, há alteração nos atributos pedidos no segundo método
+
+Existe sobrescrita no método mover da classe PecaDama, pois há alteração do comportamento na subclasse
